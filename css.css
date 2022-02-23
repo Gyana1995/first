@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.center{
+    text-align: center;
+}
+.pading{
+ padding: 20px;
+ background-color: aqua;
+ border: 1px solid white;
+}
+.submit-class{
+   text-align: center;
+}
+.submit-button{
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    background-color: aqua;
+}
